@@ -125,7 +125,7 @@ Con más de 20 años de trayectoria en la gestión, ejecución y aseguramiento d
 
 ---
 
-### 🚀 Ecosistema Digital & Producción Cloud
+### 🚀 Ecosistema Digital & Production Cloud
 
 <table width="100%">
   <tr>
@@ -150,31 +150,62 @@ Con más de 20 años de trayectoria en la gestión, ejecución y aseguramiento d
 
 ### 🎥 Apariciones en Medios & Transferencia
 
-#### 📺 Televisión & Contenido Audiovisual
-* **Canal de Transferencia Tecnológica (@ProfeVictorProject):** Espacio enfocado en la divulgación técnica, ingeniería, uso de herramientas avanzadas y metodologías para la educación superior.  
-    🔗 [Ver Canal de YouTube](https://youtube.com/@ProfeVictorProject)
-* *(Pronto: Aquí agregaremos tus apariciones en televisión a medida que cargues los videos).*
+#### 📺 Televisión & Prensa Audiovisual (Media Clips)
+
+* **Consejos de Ventilación Habitacional ante Alertas Meteorológicas — TVN (2025)** Panel técnico en directo abordando estrategias de ventilación positiva matutina/nocturna, control de radiación mediante cortinas térmicas y reducción de la humedad interior para mitigar olas de calor extremo.  
+  🔗 [Ver Clip en YouTube](https://www.youtube.com/watch?v=bnEzd8a5mc4)
+
+* **Matriz de Calefacción: Análisis Económico y Eficiencia Invernal — Reportaje Central (2024)** Estudio comparativo en terreno simulando costos operacionales mensuales para viviendas de 40m² analizando rendimientos e impacto entre parafina, gas, electricidad y tecnología *Inverter*.  
+  🔗 [Ver Clip en YouTube](https://www.youtube.com/watch?v=Iu4cRuuGRis)
+
+* **Diagnóstico de Transmitancia Térmica In Situ — Buenos Días a Todos (Parte II) (2023)** Uso de termografía infrarroja en terreno para identificar puentes térmicos, pérdidas energéticas en muros/techos y deficiencias críticas de infiltración de aire por rendijas habitacionales.  
+  🔗 [Ver Clip en YouTube](https://www.youtube.com/watch?v=MXVUztPWKu4)
+
+* **Evolución de Aislamiento y Transmitancia en la O.G.U.C. — Buenos Días a Todos (Parte I) (2023)** Criterios de análisis para construcciones previas y posteriores al año 2000. Comportamiento inercial y monolítico de albañilerías y hormigón frente al flujo térmico y leyes de radiación.  
+  🔗 [Ver Clip en YouTube](https://www.youtube.com/watch?v=yOcBC42jCj8)
+
+* **Análisis Crítico ante las Alzas de Combustibles y Estabilización Eléctrica — Noticiero (2022)** Evaluación económica de consumo (bloques de 8 horas) para recintos de 50m², analizando los factores de contaminación intradomiciliaria y el impacto del congelamiento de tarifas.  
+  🔗 [Ver Clip en YouTube](https://www.youtube.com/watch?v=foFLUfMg-G4)
+
+#### 🏫 Cooperación Internacional & Aprendizaje Global
+* **Proyecto Internacional COIL (Colombia — Chile) (2023)** Alianza estratégica de intercambio académico internacional mediante la metodología COIL entre la cátedra de Pavimentos (Facultad de Ingeniería Civil de Colombia) y la Pontificia Universidad Católica de Chile / Duoc UC en obras civiles, potenciando equipos multiculturales de investigación aplicada.  
+  🔗 [Ver Video Informativo](https://www.youtube.com/watch?v=eBvSbDMdA1Y)
+
+#### 📢 Canal de Transferencia Tecnológica
+* **Comunidad @ProfeVictorProject** Espacio enfocado en la divulgación técnica, ingeniería aplicada, automatización de presupuestos, uso de software avanzado y metodologías instruccionales para la Educación Superior.  
+  🔗 [Visitar Canal de YouTube](https://youtube.com/@ProfeVictorProject)
+
+---
 
 #### 📄 Publicaciones Académicas & Working Papers
+
 * **Uso sustentable de aguas grises en edificio sede Alameda DUOC UC** (2024)  
-  ✍️ *V. Muñoz-Flores, E. N. S. Chavez.*
+  ✍️ *Víctor Muñoz-Flores, Elizabeth Natividad Saenz Chavez.* 📋 **Resumen:** Estudio enfocado en dar respuesta estratégica al estrés hídrico extremo proyectado para Chile y América Latina mediante el diseño e implementación de un modelo de reutilización y gestión óptima de aguas grises en la infraestructura edilicia de la sede Alameda de DUOC UC.
+
 * **Lessons Learned from Chile’s Wood-Burning Heaters Replacement Program** (2023)  
   ✍️ *V. Muñoz-Flores, F. Olivares, et al.* | Working Paper  
   🔗 [Descargar Documento en PDF](https://fco-olivares.github.io/wp/cs_heaters.pdf)
+
 * **Diseño Estructural de Pavimentos** (2021)  
   ✍️ *V. Muñoz-Flores.* | 🔗 [Ver en ResearchGate](https://www.researchgate.net/)
+
 * **Diseño de Pilares Estructurales según Código ACI318-14: Propuesta Metodológica Para Alumnos de Educación Técnico Profesional** (2020)  
   ✍️ *V. Muñoz-Flores.* | 🔗 [Ver en ResearchGate](https://www.researchgate.net/)
+
 * **Rol Docente en la Retención de los Alumnos a Través del Uso de Estrategias de Enseñanza Aprendizaje en el Área Construcción de la Sede Los Ángeles** (2019)  
   ✍️ *V. Muñoz-Flores.* | *Universidad del Desarrollo.*
+
 * **Mayores Mitos Frente a la Educación Online 2019** (2019)  
   ✍️ *V. Muñoz-Flores.* | *Instituto Profesional AIEP.*
+
 * **Vinculación con el medio e interculturalidad: un estudio comparativo de las competencias del siglo XXI en estudiantes de Educación Superior** (2019)  
   ✍️ *V. Farías, V. Muñoz-Flores, F. Matamala.*
+
 * **Fortalecimiento del Rol del Estado en la Educación Superior Chilena** (2018)  
   ✍️ *V. Muñoz-Flores.* | *Universidad del Desarrollo.*
+
 * **Diseño de un Modelo de Control y Gestión para el Plan de Reconstrucción MINVU** (2014)  
-  ✍️ *V. Muñoz-Flores, E. Jaque, A. López, J Rosales.* | *Universidad Central de Chile.*
+  ✍️ *V. Muñoz-Flores, E. Jaque, A. López, J. Rosales.* | *Universidad Central de Chile.*
 
 ---
 
