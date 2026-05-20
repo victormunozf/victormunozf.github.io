@@ -3,8 +3,8 @@
   <img src="./Sin título.png" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 3px solid #002F6C;" alt="Víctor Muñoz Flores">
 
   # Víctor Muñoz Flores
-  ### **Civil Industrial Engineer & Constructor Civil**
-  *Docente Asociado en Duoc UC | Consultor e Ingeniero de Datos*
+  ### **Ingeniero Civil Industrial & Constructor Civil**
+  *Docente Asociado | Consultor e Ingeniero de Datos*
 
   <p align="center">
     <a href="https://orcid.org/0000-0001-8359-4323" target="_blank"><img src="https://img.shields.io/badge/ORCID-0000--0001--8359--4323-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
@@ -152,11 +152,9 @@ Con más de 20 años de trayectoria en la gestión, ejecución y aseguramiento d
 
 #### 📰 El Mercurio — Ediciones Especiales
 
-* **"¿Cuál es el tipo de calefacción ideal para cada hogar?" (28 de Abril, 2023)[cite_start]** [cite: 534, 539]
-  [cite_start]Análisis comparativo interdisciplinario junto al Centro Tecnológico Kipus[cite: 547]. [cite_start]Planteamiento técnico de la relevancia de evaluar la *envolvente térmica estructural* de las viviendas como factor crítico de disipación de energía hacia el exterior[cite: 572, 573]. [cite_start]Desarrollo de un modelo matemático y económico de consumo basado en recintos estándar de 60 m² bajo regímenes de uso de 10 horas diarias para cuantificar el impacto de la matriz energética urbana entre gas, kerosene y electricidad[cite: 574, 575, 578, 580, 581, 583].
-  
-* [cite_start]**"La importancia de una adecuada gestión, retiro y control del asbesto" (23 de Marzo, 2023)** [cite: 412, 414]
-  [cite_start]Columna especializada enfocada en los estrictos protocolos normativos establecidos por la Seremi de Salud (DS N° 656/2000, DS N° 17/2008, DS N° 148/2003 y DS N° 594/1999)[cite: 512, 520]. [cite_start]Clasificación técnica del mineral en elementos *friables y no friables* [cite: 429][cite_start], directrices de mitigación para evitar la volatilización de fibras microscópicas en el aire mediante encapsulamiento polimérico líquido [cite: 474, 475, 476][cite_start], y estructuración rigurosa de los 12 pasos obligatorios requeridos en los Planes de Trabajo para faenas de demolición y disposición final segura en vertederos autorizados[cite: 450, 451, 452, 456, 478].
+* **"¿Cuál es el tipo de calefacción ideal para cada hogar?" (28 de Abril, 2023)** Análisis comparativo desarrollado en colaboración con el Centro Tecnológico Kipus. Se aborda desde una perspectiva técnica la relevancia de evaluar la envolvente térmica estructural de las viviendas como el factor crítico en la disipación de energía hacia el exterior. Además, incluye un modelo matemático y económico de consumo basado en un recinto estándar de 60 m² bajo regímenes de uso de 10 horas diarias, permitiendo cuantificar el impacto y costo real de la matriz energética urbana entre gas licuado, kerosene y electricidad.
+
+* **"La importancia de una adecuada gestión, retiro y control del asbesto" (23 de Marzo, 2023)** Columna especializada enfocada en los estrictos protocolos normativos establecidos por el Ministerio de Salud y las Seremis correspondientes (considerando dictámenes como el DS N° 656/2000, DS N° 17/2008, DS N° 148/2003 y DS N° 594/1999). En el texto se expone la clasificación técnica del mineral en elementos friables y no friables, las directrices de mitigación para evitar la volatilización de fibras microscópicas en el aire mediante técnicas de encapsulamiento polimérico líquido, y la estructuración rigurosa de los planes de trabajo obligatorios que guían las faenas de desarme, desmantelamiento y disposición final segura en vertederos autorizados.
 
 #### 📺 Reportajes Audiovisuales & Televisión Abierta
 
