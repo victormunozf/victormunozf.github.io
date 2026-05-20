@@ -1,13 +1,10 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/main?type=waving&color=002F6C&height=180&section=header&text=V%C3%8DCTOR%20MU%C3%91OZ%20FLORES&fontSize=32&fontColor=ffffff&fontAlignY=45" width="100%" alt="Banner Principal">
-</div>
-
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
   <tr>
     <td width="35%" align="center" valign="top" style="border: none; padding-right: 20px; border-right: 1px solid #e1e4e8;">
       <br>
       <img src="./Sin título.png" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 4px solid #002F6C;" alt="Víctor Muñoz Flores">
       <br><br>
+      <h2><b>Víctor Muñoz Flores</b></h2>
       <h3><b>Ingeniero Civil Industrial<br>Constructor Civil</b></h3>
       <p><i>Docente Asociado Universitario<br>Consultor e Ingeniero de Datos</i></p>
       <hr style="width: 80%; border: 0.5px solid #e1e4e8;">
@@ -17,7 +14,7 @@
     </td>
     <td width="65%" valign="top" style="border: none; padding-left: 20px;">
       <br>
-      <img src="https://img.shields.io/badge/%F0%9F%93%9D-RESUMEN%20PROFESIONAL-002F6C?style=for-the-badge&logoColor=white" alt="Resumen">
+      <h3>📝 Resumen Profesional</h3>
       <p style="text-align: justify; line-height: 1.6;">
         Profesional de la ingeniería con más de 20 años de trayectoria sólida en la gestión, ejecución estratégica y Aseguramiento de Calidad bajo normativas estrictas del <b>Ministerio de Obras Públicas (PAC/MOP)</b>, liderando infraestructuras complejas y procesos críticos de <b>licitaciones públicas y privadas</b>. 
       </p>
