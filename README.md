@@ -148,31 +148,41 @@ Con más de 20 años de trayectoria en la gestión, ejecución y aseguramiento d
 
 ---
 
-### 🎥 Apariciones en Medios & Transferencia
+### 📰 Apariciones en Prensa & Columnas Técnicas
 
-#### 📺 Televisión & Prensa Audiovisual (Media Clips)
+#### 📰 El Mercurio — Ediciones Especiales
 
-* **Consejos de Ventilación Habitacional ante Alertas Meteorológicas — TVN (2025)** Panel técnico en directo abordando estrategias de ventilación positiva matutina/nocturna, control de radiación mediante cortinas térmicas y reducción de la humedad interior para mitigar olas de calor extremo.  
+* **"¿Cuál es el tipo de calefacción ideal para cada hogar?" (28 de Abril, 2023)[cite_start]** [cite: 534, 539]
+  [cite_start]Análisis comparativo interdisciplinario junto al Centro Tecnológico Kipus[cite: 547]. [cite_start]Planteamiento técnico de la relevancia de evaluar la *envolvente térmica estructural* de las viviendas como factor crítico de disipación de energía hacia el exterior[cite: 572, 573]. [cite_start]Desarrollo de un modelo matemático y económico de consumo basado en recintos estándar de 60 m² bajo regímenes de uso de 10 horas diarias para cuantificar el impacto de la matriz energética urbana entre gas, kerosene y electricidad[cite: 574, 575, 578, 580, 581, 583].
+  
+* [cite_start]**"La importancia de una adecuada gestión, retiro y control del asbesto" (23 de Marzo, 2023)** [cite: 412, 414]
+  [cite_start]Columna especializada enfocada en los estrictos protocolos normativos establecidos por la Seremi de Salud (DS N° 656/2000, DS N° 17/2008, DS N° 148/2003 y DS N° 594/1999)[cite: 512, 520]. [cite_start]Clasificación técnica del mineral en elementos *friables y no friables* [cite: 429][cite_start], directrices de mitigación para evitar la volatilización de fibras microscópicas en el aire mediante encapsulamiento polimérico líquido [cite: 474, 475, 476][cite_start], y estructuración rigurosa de los 12 pasos obligatorios requeridos en los Planes de Trabajo para faenas de demolición y disposición final segura en vertederos autorizados[cite: 450, 451, 452, 456, 478].
+
+#### 📺 Reportajes Audiovisuales & Televisión Abierta
+
+* **Consejos de Ventilación Habitacional ante Alertas Meteorológicas — TVN (2025)** Panel técnico en directo abordando estrategias de ventilación cruzada y positiva, control de la radiación directa mediante cortinas térmicas o toldos exteriores, y dinámicas de renovación del aire interior para mitigar los impactos térmicos de las olas de calor en la zona central de Chile.  
   🔗 [Ver Clip en YouTube](https://www.youtube.com/watch?v=bnEzd8a5mc4)
 
-* **Matriz de Calefacción: Análisis Económico y Eficiencia Invernal — Reportaje Central (2024)** Estudio comparativo en terreno simulando costos operacionales mensuales para viviendas de 40m² analizando rendimientos e impacto entre parafina, gas, electricidad y tecnología *Inverter*.  
+* **Análisis de Costos Operacionales en Calefacción Invernal — Reportaje Central (2024)** Simulación técnica en terreno analizando la eficiencia de calefacción para superficies de 40 m². Evaluación real de la relación de costos mensuales e impactos de humedad y emisiones intradomiciliarias entre parafina, gas licuado, electricidad tradicional y tecnología de acondicionamiento *Inverter*.  
   🔗 [Ver Clip en YouTube](https://www.youtube.com/watch?v=Iu4cRuuGRis)
 
-* **Diagnóstico de Transmitancia Térmica In Situ — Buenos Días a Todos (Parte II) (2023)** Uso de termografía infrarroja en terreno para identificar puentes térmicos, pérdidas energéticas en muros/techos y deficiencias críticas de infiltración de aire por rendijas habitacionales.  
+* **Diagnóstico de Transmitancia Térmica In Situ — Buenos Días a Todos (Parte II) (2023)** Demostración práctica y despliegue en terreno utilizando equipos de termografía infrarroja para detectar puentes térmicos en muros, pérdidas críticas de energía en techumbres e infiltraciones de aire por marcos y rendijas inferiores de accesos residenciales.  
   🔗 [Ver Clip en YouTube](https://www.youtube.com/watch?v=MXVUztPWKu4)
 
-* **Evolución de Aislamiento y Transmitancia en la O.G.U.C. — Buenos Días a Todos (Parte I) (2023)** Criterios de análisis para construcciones previas y posteriores al año 2000. Comportamiento inercial y monolítico de albañilerías y hormigón frente al flujo térmico y leyes de radiación.  
+* **Evolución del Aislamiento y Normativa General de Urbanismo y Construcciones (O.G.U.C.) — Buenos Días a Todos (Parte I) (2023)** Análisis del quiebre normativo del año 2000 en Chile. Explicación de las leyes físicas de radiación y el comportamiento monolítico e inercial de muros de hormigón y albañilería frente al traspaso térmico estacionario.  
   🔗 [Ver Clip en YouTube](https://www.youtube.com/watch?v=yOcBC42jCj8)
 
-* **Análisis Crítico ante las Alzas de Combustibles y Estabilización Eléctrica — Noticiero (2022)** Evaluación económica de consumo (bloques de 8 horas) para recintos de 50m², analizando los factores de contaminación intradomiciliaria y el impacto del congelamiento de tarifas.  
+* **Enfrentando el Alza de los Combustibles: Tips de Ahorro y Eficiencia — Mega / Chv (2022)** Proyección económica y desglose tarifario (bloques de 8 horas para 50 m²) analizando el impacto del congelamiento de precios eléctricos post-estallido y recomendaciones de mantenimiento preventivo de mechas y quemadores para optimizar el rendimiento calórico.  
   🔗 [Ver Clip en YouTube](https://www.youtube.com/watch?v=foFLUfMg-G4)
 
-#### 🏫 Cooperación Internacional & Aprendizaje Global
-* **Proyecto Internacional COIL (Colombia — Chile) (2023)** Alianza estratégica de intercambio académico internacional mediante la metodología COIL entre la cátedra de Pavimentos (Facultad de Ingeniería Civil de Colombia) y la Pontificia Universidad Católica de Chile / Duoc UC en obras civiles, potenciando equipos multiculturales de investigación aplicada.  
+#### 🏫 Cooperación Internacional & Proyectos de Aprendizaje Global
+
+* **Proyecto Internacional COIL (Colombia — Chile) (2023)** Co-diseño y dirección estratégica del primer programa de colaboración internacional bajo metodología COIL entre la cátedra de Pavimentos de la Facultad de Ingeniería Civil en Colombia y las asignaturas de Obras Civiles y Edificación en Chile (Pontificia Universidad Católica / Duoc UC). Fomento de entornos multiculturales de aprendizaje para la resolución de problemáticas técnico-viales de infraestructura regional.  
   🔗 [Ver Video Informativo](https://www.youtube.com/watch?v=eBvSbDMdA1Y)
 
-#### 📢 Canal de Transferencia Tecnológica
-* **Comunidad @ProfeVictorProject** Espacio enfocado en la divulgación técnica, ingeniería aplicada, automatización de presupuestos, uso de software avanzado y metodologías instruccionales para la Educación Superior.  
+#### 📢 Divulgación Técnica & Comunidad Educativa
+
+* **Canal @ProfeVictorProject** Plataforma digital dedicada a la transferencia de conocimiento aplicado, ingeniería, automatización de flujos de presupuestos con R/Shiny, uso de herramientas BIM y metodologías instruccionales para la Educación Superior.  
   🔗 [Visitar Canal de YouTube](https://youtube.com/@ProfeVictorProject)
 
 ---
@@ -180,7 +190,7 @@ Con más de 20 años de trayectoria en la gestión, ejecución y aseguramiento d
 #### 📄 Publicaciones Académicas & Working Papers
 
 * **Uso sustentable de aguas grises en edificio sede Alameda DUOC UC** (2024)  
-  ✍️ *Víctor Muñoz-Flores, Elizabeth Natividad Saenz Chavez.* 📋 **Resumen:** Estudio enfocado en dar respuesta estratégica al estrés hídrico extremo proyectado para Chile y América Latina mediante el diseño e implementación de un modelo de reutilización y gestión óptima de aguas grises en la infraestructura edilicia de la sede Alameda de DUOC UC.
+  ✍️ *Víctor Muñoz-Flores, Elizabeth Natividad Saenz Chavez.* 📋 **Resumen:** Diseño e implementación de un modelo de captación, tratamiento y reutilización óptima de aguas grises orientado a mitigar el estrés hídrico extremo en la infraestructura edilicia institucional.
 
 * **Lessons Learned from Chile’s Wood-Burning Heaters Replacement Program** (2023)  
   ✍️ *V. Muñoz-Flores, F. Olivares, et al.* | Working Paper  
