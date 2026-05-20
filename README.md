@@ -1,18 +1,7 @@
 <div align="center">
 
-  <img src="./48975946-3a48-4c1f-a5eb-507537f83ab8.png" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 3px solid #002F6C;" alt="Víctor Muñoz Flores">
+  <img src="./perfil.jpg" width="150" height="150" style="border-radius: 50%; border: 3px solid #002F6C;" alt="Víctor Muñoz Flores">
 
-  # Víctor Muñoz Flores
-  ### **Civil Industrial Engineer & Constructor Civil**
-  *Docente Asociado en Duoc UC | Consultor e Ingeniero de Datos*
-
-  <p align="center">
-    <a href="https://orcid.org/0000-0001-8359-4323" target="_blank"><img src="https://img.shields.io/badge/ORCID-0000--0001--8359--4323-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
-    <a href="https://www.linkedin.com/in/víctor-muñoz-flores" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:vimunozf@outlook.com"><img src="https://img.shields.io/badge/Email-Contactar-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  </p>
-
-</div>
   # Víctor Muñoz Flores
   ### **Civil Industrial Engineer & Constructor Civil**
   *Docente Asociado en Duoc UC | Consultor e Ingeniero de Datos*
