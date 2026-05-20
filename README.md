@@ -1,154 +1,187 @@
 <div align="center">
-
-  <img src="./Sin título.png" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 3px solid #002F6C;" alt="Víctor Muñoz Flores">
-
-  # Víctor Muñoz Flores
-  ### **Ingeniero Civil Industrial & Constructor Civil**
-  *Docente Asociado | Consultor e Ingeniero de Datos*
-
-  <p align="center">
-    <a href="https://orcid.org/0000-0001-8359-4323" target="_blank"><img src="https://img.shields.io/badge/ORCID-0000--0001--8359--4323-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
-    <a href="https://www.linkedin.com/in/víctor-muñoz-flores" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:vimunozf@outlook.com"><img src="https://img.shields.io/badge/Email-Contactar-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  </p>
-
+  <img src="https://capsule-render.vercel.app/main?type=waving&color=002F6C&height=180&section=header&text=V%C3%8DCTOR%20MU%C3%91OZ%20FLORES&fontSize=32&fontColor=ffffff&fontAlignY=45" width="100%" alt="Banner Principal">
 </div>
 
----
-
-### 📝 Resumen Profesional
-Con más de 20 años de trayectoria en la gestión, ejecución y aseguramiento de calidad (PAC/MOP) en obras civiles e infraestructura. Especialista en la **transformación digital y optimización de procesos técnicos** mediante Ingeniería de Datos, Ciencia de Datos y arquitecturas Cloud, respaldado por credenciales avanzadas de *IBM, Google y Columbia University*. Combinando la docencia universitaria con la transferencia tecnológica aplicada.
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="35%" align="center" valign="top" style="border: none; padding-right: 20px; border-right: 1px solid #e1e4e8;">
+      <br>
+      <img src="./Sin título.png" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 4px solid #002F6C;" alt="Víctor Muñoz Flores">
+      <br><br>
+      <h3><b>Ingeniero Civil Industrial<br>Constructor Civil</b></h3>
+      <p><i>Docente Asociado Universitario<br>Consultor e Ingeniero de Datos</i></p>
+      <hr style="width: 80%; border: 0.5px solid #e1e4e8;">
+      <a href="https://orcid.org/0000-0001-8359-4323" target="_blank"><img src="https://img.shields.io/badge/ORCID-0000--0001--8359--4323-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a><br><br>
+      <a href="https://www.linkedin.com/in/víctor-muñoz-flores" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Conectar--Perfil-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a><br><br>
+      <a href="mailto:vimunozf@outlook.com"><img src="https://img.shields.io/badge/Email-Contactar-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+    </td>
+    <td width="65%" valign="top" style="border: none; padding-left: 20px;">
+      <br>
+      <img src="https://img.shields.io/badge/%F0%9F%93%9D-RESUMEN%20PROFESIONAL-002F6C?style=for-the-badge&logoColor=white" alt="Resumen">
+      <p style="text-align: justify; line-height: 1.6;">
+        Profesional de la ingeniería con más de 20 años de trayectoria sólida en la gestión, ejecución estratégica y Aseguramiento de Calidad bajo normativas estrictas del <b>Ministerio de Obras Públicas (PAC/MOP)</b>, liderando infraestructuras complejas y procesos críticos de <b>licitaciones públicas y privadas</b>. 
+      </p>
+      <p style="text-align: justify; line-height: 1.6;">
+        Especialista en el diseño de soluciones para la transformación digital, combinando una sólida experiencia en <b>comunicación corporativa y estructuración de presupuestos técnicos automatizados</b>. Experto en optimización de procesos mediante Ingeniería de Datos, Ciencia de Datos y arquitecturas en la nube (Cloud Data Architectures) respaldado por credenciales internacionales de <i>IBM, Google y Columbia University</i>.
+      </p>
+      <p style="text-align: justify; line-height: 1.6;">
+        En el ámbito académico, ejerce activamente como <b>Docente Asociado Universitario</b>, liderando cátedras técnicas y coordinando <b>proyectos de investigación aplicada e innovación tecnológica</b> que vinculan el ecosistema productivo con la transferencia de conocimiento avanzado.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🏛️ Educación Superior & Postgrados
-* **Magíster en Ingeniería Industrial** – *Universidad Central de Chile*
-* **Magíster en Innovación Curricular y Evaluación** – *Universidad del Desarrollo*
-* **Postítulo en Ingeniería Industrial** – *Universidad Central de Chile*
-* **Constructor Civil** – *Universidad Católica de la Santísima Concepción*
+
+* 🎓 **Magíster en Ingeniería Industrial** – *Universidad Central de Chile*
+* 🎓 **Magíster en Innovación Curricular y Evaluación** – *Universidad del Desarrollo*
+* 📜 **Postítulo en Ingeniería Industrial** – *Universidad Central de Chile*
+* 🏗️ **Constructor Civil** – *Universidad Católica de la Santísima Concepción*
 
 ---
 
-### 🎓 Formación Complementaria
+### 🎓 Formación Complementaria & Especialidades
+
+<table width="100%">
+  <thead>
+    <tr style="background-color: #002F6C; color: #ffffff;">
+      <th width="75%" align="left" style="padding: 8px; color: #ffffff;">📚 Programa y Especialización Académica</th>
+      <th width="25%" align="right" style="padding: 8px; color: #ffffff;">📅 Año</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 6px;">• Diplomado en Docencia para la Educación Superior — <i>Universidad Central de Chile</i></td>
+      <td align="right" style="padding: 6px;">2025</td>
+    </tr>
+    <tr style="background-color: #f8f9fa;">
+      <td style="padding: 6px;">• Diplomado en Gestión de la Innovación — <i>Universidad Central de Chile</i></td>
+      <td align="right" style="padding: 6px;">2024</td>
+    </tr>
+    <tr>
+      <td style="padding: 6px;">• Diplomado en Gestión de Operaciones y Logística — <i>Universidad Central de Chile</i></td>
+      <td align="right" style="padding: 6px;">2023</td>
+    </tr>
+    <tr style="background-color: #f8f9fa;">
+      <td style="padding: 6px;">• Diplomado en Gestión de Proyectos — <i>Universidad Central de Chile</i></td>
+      <td align="right" style="padding: 6px;">2023</td>
+    </tr>
+    <tr>
+      <td style="padding: 6px;">• Diplomado en Diseño y Cálculo Estructural Avanzado con Madera — <i>Pontificia Universidad Católica de Chile</i></td>
+      <td align="right" style="padding: 6px;">2023</td>
+    </tr>
+    <tr style="background-color: #f8f9fa;">
+      <td style="padding: 6px;">• Diplomado de Investigación Aplicada e Innovación — <i>DuocUC</i></td>
+      <td align="right" style="padding: 6px;">2023</td>
+    </tr>
+    <tr>
+      <td style="padding: 6px;">• Diplomado en Educación Superior — <i>Universidad Tecnológica de Chile, INACAP</i></td>
+      <td align="right" style="padding: 6px;">2019</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### 📜 Certificaciones & Credenciales Internacionales
+
+<table width="100%">
+  <thead>
+    <tr style="background-color: #002F6C;">
+      <th width="50%" align="left" style="padding: 8px; color: #ffffff;">🏅 Credenciales Avanzadas (Professional Certificates)</th>
+      <th width="50%" align="left" style="padding: 8px; color: #ffffff;">🏫 Especializaciones Industriales & Académicas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top" style="padding: 10px; line-height: 1.5;">
+        • <b>IBM:</b> Data Engineering Professional Certificate (16 Cursos)<br>
+        • <b>IBM:</b> Data Science Professional Certificate (12 Cursos)<br>
+        • <b>IBM:</b> Data Analytics With Excel and R (9 Cursos)<br>
+        • <b>Columbia University:</b> Construction Management Certificate (2024)<br>
+        • <b>Google:</b> Gestión de Proyectos Professional Certificate (2024)
+      </td>
+      <td valign="top" style="padding: 10px; line-height: 1.5;">
+        • <b>UC de Chile:</b> Camino a la Excelencia en Gestión de Proyectos (2024)<br>
+        • <b>UC de Chile:</b> Costos para los Negocios (2024)<br>
+        • <b>UC de Chile:</b> Formación docente basada en la práctica (2024)<br>
+        • <b>U. de Chile:</b> Costos para los Negocios (2021)<br>
+        • <b>Tec. de Monterrey:</b> Introducción a Lean Six Sigma (2022)<br>
+        • <b>U. Austral (ARG):</b> Metodología Scrum (2020)
+      </td>
+    </tr>
+    <tr style="background-color: #f8f9fa;">
+      <td colspan="2" valign="top" style="padding: 10px; line-height: 1.5;">
+        <b>🛠️ Aseguramiento de Calidad & Entorno Global (Instituto Desarrollo Empresarial)</b><br>
+        • Curso PAC MOP (40 Horas) | Formación de Auditores Internos según ISO 19011<br>
+        • Mejoramiento de la Calidad (Proyectos Kaizen) | Documentación de Sistemas de Gestión de Calidad<br>
+        • <b>SUNY (State University of New York):</b> COIL Foundations Workshop | <b>UPV:</b> Sostenibilidad Urbana
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### 🛠️ Core Técnico & Stack Tecnológico
+
+<div align="center">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/Microsoft_Project-107C41?style=for-the-badge&logo=microsoft-project&logoColor=white" alt="MS Project">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
+</div>
+
+<br>
+
 <table width="100%">
   <tr>
-    <td width="75%">📚 <b>Programa y Especialización</b></td>
-    <td width="25%" align="right">📅 <b>Año</b></td>
-  </tr>
-  <tr>
-    <td>• Diplomado en Docencia para la Educación Superior — <i>Universidad Central de Chile</i></td>
-    <td align="right">2025</td>
-  </tr>
-  <tr>
-    <td>• Diplomado en Gestión de la Innovación — <i>Universidad Central de Chile</i></td>
-    <td align="right">2024</td>
-  </tr>
-  <tr>
-    <td>• Diplomado en Gestión de Operaciones y Logística — <i>Universidad Central de Chile</i></td>
-    <td align="right">2023</td>
-  </tr>
-  <tr>
-    <td>• Diplomado en Gestión de Proyectos — <i>Universidad Central de Chile</i></td>
-    <td align="right">2023</td>
-  </tr>
-  <tr>
-    <td>• Diplomado en Diseño y Cálculo Estructural Avanzado con Madera — <i>Pontificia Universidad Católica de Chile</i></td>
-    <td align="right">2023</td>
-  </tr>
-  <tr>
-    <td>• Diplomado de Investigación Aplicada e Innovación — <i>DuocUC</i></td>
-    <td align="right">2023</td>
-  </tr>
-  <tr>
-    <td>• Diplomado en Educación Superior — <i>Universidad Tecnológica de Chile, INACAP</i></td>
-    <td align="right">2019</td>
+    <td width="50%" valign="top" style="padding: 8px;">
+      <strong>📊 Data Engineering & Analytics</strong><br>
+      • Programación avanzada en entornos R (Shiny Architecture, Positron)<br>
+      • Diseño de bases de datos relacionales SQL (PostgreSQL, Supabase)<br>
+      • Pipelines robustos de extracción de datos (ETL) e integración de IA<br>
+      • Cuadros de mando analíticos e inteligencia de negocios predictiva
+    </td>
+    <td width="50%" valign="top" style="padding: 8px;">
+      <strong>🏗️ Infraestructura, Presupuestos & Control MOP</strong><br>
+      • Confección e inspección de Planes de Aseguramiento de Calidad (PAC)<br>
+      • Gestión, cubicación, presupuestos complejos y control de licitaciones<br>
+      • Planificación y control de tiempos avanzado mediante MS Project<br>
+      • Modelamiento BIM de Infraestructuras Viales e Instalador Eléctrico SEC
+    </td>
   </tr>
 </table>
 
 ---
 
-### 📜 Cursos & Certificaciones Internacionales
-<table width="100%">
+### 🚀 Ecosistema Digital & Aplicaciones en la Nube
+
+<table width="100%" border="0" cellpadding="10" cellspacing="0">
   <tr>
-    <td width="50%" valign="top">
-      <b>🏅 Credenciales Avanzadas (Professional Certificates)</b><br>
-      • <b>IBM:</b> Data Engineering Professional Certificate (16 Cursos)<br>
-      • <b>IBM:</b> Data Science Professional Certificate (12 Cursos)<br>
-      • <b>IBM:</b> Data Analytics With Excel and R (9 Cursos)<br>
-      • <b>Columbia University:</b> Construction Management Certificate (5 Cursos) (2024)<br>
-      • <b>Google:</b> Gestión de Proyectos Professional Certificate (6 Cursos) (2024)
+    <td width="50%" align="center" valign="top" style="background-color: #f1f3f5; border-radius: 8px; padding: 15px;">
+      <img src="https://img.shields.io/badge/GitHub_Pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Page"><br>
+      <strong>💻 PORTAFOLIO DE REPOSITORIOS</strong><br>
+      <p style="font-size: 11pt; color: #495057;">Códigos fuente orientados a analítica, modelos predictivos de ingeniería y flujos automatizados.</p>
+      <br>
+      <a href="https://victormunoz.github.io" target="_blank"><b>[ 🌐 Explorar victormunoz.github.io ]</b></a>
     </td>
-    <td width="50%" valign="top">
-      <b>🏫 Especializaciones Académicas</b><br>
-      • <b>UC de Chile:</b> Camino a la Excelencia en Gestión de Proyectos (2024)<br>
-      • <b>UC de Chile:</b> Costos para los Negocios (24 hrs) (2024)<br>
-      • <b>UC de Chile:</b> Formación docente basada en la práctica (28 hrs) (2024)<br>
-      • <b>UC de Chile:</b> Curso Ingeniería Vial (24 hrs) (2021)<br>
-      • <b>U. de Chile:</b> Costos para los Negocios (24 hrs) (2021)<br>
-      • <b>Tec. de Monterrey:</b> Introducción a Lean Six Sigma (27 hrs) (2022)<br>
-      • <b>U. Austral (ARG):</b> Metodología Scrum (32 hrs) (2020)
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <b>🛠️ Gestión de Calidad & Entorno Global (Instituto Desarrollo Empresarial)</b><br>
-      • Curso PAC (40 Horas) (2020) | Formación de Auditores Internos según ISO 19011 (2020)<br>
-      • Mejoramiento de la Calidad, Proyectos Kaizen (2013) | Documentación de Sistemas de Gestión de Calidad (2013)<br>
-      • <b>SUNY:</b> COIL Foundations Workshop (20 hrs) (2022) | <b>UPV:</b> Sostenibilidad en el Entorno Urbano (20 hrs) (2022)
+    <td width="50%" align="center" valign="top" style="background-color: #e9ecef; border-radius: 8px; padding: 15px;">
+      <img src="https://img.shields.io/badge/Shiny_Apps-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="Shiny"><br>
+      <strong>📊 PLATAFORMA DE PRESUPUESTOS v1</strong><br>
+      <p style="font-size: 11pt; color: #495057;">Aplicación cloud en producción diseñada para la automatización financiera y análisis de costos en proyectos.</p>
+      <br>
+      <a href="https://victormunoz.shinyapps.io/presupuestos_v1" target="_blank"><b>[ 🚀 Abrir App en Producción ]</b></a>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Dominio Técnico & Especialidades
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <strong>📊 Data Engineering & Cloud</strong><br>
-      • Programación avanzada en R (Shiny, Positron)<br>
-      • Bases de datos SQL (PostgreSQL, Supabase)<br>
-      • Pipelines ETL y analítica predictiva con IA<br>
-      • Manejo avanzado de software de Excel
-    </td>
-    <td width="50%" valign="top">
-      <strong>🏗️ Gestión de Infraestructura & Terreno</strong><br>
-      • Planes de Aseguramiento de Calidad (PAC/MOP)<br>
-      • Planificación y control avanzado con MS Project<br>
-      • Modelamiento BIM de Obras Viales: INSTRAM<br>
-      • Instalador eléctrico certificado Clase D
-    </td>
-  </tr>
-</table>
-
-💡 *Dominio de Idioma:* Inglés Intermedio | *Seguridad:* Curso vigente de trabajo en altura (TTR Internacional).
-
----
-
-### 🚀 Ecosistema Digital & Production Cloud
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" style="background-color: #f8f9fa;">
-      <br><strong>💻 REPOSITORIOS & CÓDIGO</strong><br>
-      Modelamiento predictivo, analítica e integración de IA.<br>
-      👇<br>
-      <a href="https://victormunoz.github.io" target="_blank"><strong>[ Explorar GitHub IO ]</strong></a>
-      <br><br>
-    </td>
-    <td width="50%" align="center" style="background-color: #f8f9fa;">
-      <br><strong>📊 SOFTWARE DE PRESUPUESTOS v1</strong><br>
-      Plataforma en la nube para automatización financiera.<br>
-      👇<br>
-      <a href="https://victormunoz.shinyapps.io/presupuestos_v1" target="_blank"><strong>[ Abrir App en Producción ]</strong></a>
-      <br><br>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📰 Apariciones en Prensa & Columnas Técnicas
+### 📰 Columnas de Prensa & Presencia en Medios
 
 #### 📰 El Mercurio — Ediciones Especiales
 
@@ -156,67 +189,37 @@ Con más de 20 años de trayectoria en la gestión, ejecución y aseguramiento d
 
 * **"La importancia de una adecuada gestión, retiro y control del asbesto" (23 de Marzo, 2023)** Columna especializada enfocada en los estrictos protocolos normativos establecidos por el Ministerio de Salud y las Seremis correspondientes (considerando dictámenes como el DS N° 656/2000, DS N° 17/2008, DS N° 148/2003 y DS N° 594/1999). En el texto se expone la clasificación técnica del mineral en elementos friables y no friables, las directrices de mitigación para evitar la volatilización de fibras microscópicas en el aire mediante técnicas de encapsulamiento polimérico líquido, y la estructuración rigurosa de los planes de trabajo obligatorios que guían las faenas de desarme, desmantelamiento y disposición final segura en vertederos autorizados.
 
-#### 📺 Reportajes Audiovisuales & Televisión Abierta
+#### 📺 Reportajes Audiovisuales & Paneles Técnicos (Televisión Abierta)
 
-* **Consejos de Ventilación Habitacional ante Alertas Meteorológicas — TVN (2025)** Panel técnico en directo abordando estrategias de ventilación cruzada y positiva, control de la radiación directa mediante cortinas térmicas o toldos exteriores, y dinámicas de renovación del aire interior para mitigar los impactos térmicos de las olas de calor en la zona central de Chile.  
-  🔗 [Ver Clip en YouTube](https://www.youtube.com/watch?v=bnEzd8a5mc4)
+* **📺 TVN — Buenos Días a Todos (2025):** Panelista técnico en vivo sobre estrategias avanzadas de ventilación residencial cruzada, mitigación de radiación mediante barreras exteriores y dinámicas físicas de renovación del aire en olas de calor. [🔗 Ver Clip en YouTube](https://www.youtube.com/watch?v=bnEzd8a5mc4)
+* **📺 Reportaje Central (2024):** Modelamiento matemático en terreno evaluando la eficiencia y costos mensuales de sistemas de calefacción (Parafina, Gas, Inverter) para superficies estándar. [🔗 Ver Clip en YouTube](https://www.youtube.com/watch?v=Iu4cRuuGRis)
+* **📺 TVN — Análisis Termográfico (2023):** Demostración práctica utilizando cámaras de termografía infrarroja para la detección *in situ* de puentes térmicos estructurales e infiltraciones de aire. [🔗 Ver Clip en YouTube](https://www.youtube.com/watch?v=MXVUztPWKu4)
+* **📺 TVN — Evolución Normativa O.G.U.C. (2023):** Análisis del impacto del quiebre normativo del año 2000 en Chile y las leyes físicas de traspaso térmico estacionario en mamposterías. [🔗 Ver Clip en YouTube](https://www.youtube.com/watch?v=yOcBC42jCj8)
+* **📺 Megavisión / Chilevisión (2022):** Proyecciones macroeconómicas de tarifas eléctricas residenciales y optimización de mantenimiento mecánico en sistemas calóricos residenciales. [🔗 Ver Clip en YouTube](https://www.youtube.com/watch?v=foFLUfMg-G4)
 
-* **Análisis de Costos Operacionales en Calefacción Invernal — Reportaje Central (2024)** Simulación técnica en terreno analizando la eficiencia de calefacción para superficies de 40 m². Evaluación real de la relación de costos mensuales e impactos de humedad y emisiones intradomiciliarias entre parafina, gas licuado, electricidad tradicional y tecnología de acondicionamiento *Inverter*.  
-  🔗 [Ver Clip en YouTube](https://www.youtube.com/watch?v=Iu4cRuuGRis)
+#### 🏫 Cooperación Internacional & Proyectos COIL Global
 
-* **Diagnóstico de Transmitancia Térmica In Situ — Buenos Días a Todos (Parte II) (2023)** Demostración práctica y despliegue en terreno utilizando equipos de termografía infrarroja para detectar puentes térmicos en muros, pérdidas críticas de energía en techumbres e infiltraciones de aire por marcos y rendijas inferiores de accesos residenciales.  
-  🔗 [Ver Clip en YouTube](https://www.youtube.com/watch?v=MXVUztPWKu4)
+* **🌐 Proyecto Internacional COIL (Colombia — Chile) (2023):** Co-diseñador y director de la articulación global académica entre la Facultad de Ingeniería Civil en Colombia (Cátedra de Pavimentos) y las escuelas de Ingeniería y Edificación en Chile (Duoc UC / PUC) enfocado en resolución colaborativa de fallas viales regionales. [🔗 Ver Video Informativo](https://www.youtube.com/watch?v=eBvSbDMdA1Y)
 
-* **Evolución del Aislamiento y Normativa General de Urbanismo y Construcciones (O.G.U.C.) — Buenos Días a Todos (Parte I) (2023)** Análisis del quiebre normativo del año 2000 en Chile. Explicación de las leyes físicas de radiación y el comportamiento monolítico e inercial de muros de hormigón y albañilería frente al traspaso térmico estacionario.  
-  🔗 [Ver Clip en YouTube](https://www.youtube.com/watch?v=yOcBC42jCj8)
+#### 📢 Divulgación Técnica & Comunidad Académica
 
-* **Enfrentando el Alza de los Combustibles: Tips de Ahorro y Eficiencia — Mega / Chv (2022)** Proyección económica y desglose tarifario (bloques de 8 horas para 50 m²) analizando el impacto del congelamiento de precios eléctricos post-estallido y recomendaciones de mantenimiento preventivo de mechas y quemadores para optimizar el rendimiento calórico.  
-  🔗 [Ver Clip en YouTube](https://www.youtube.com/watch?v=foFLUfMg-G4)
-
-#### 🏫 Cooperación Internacional & Proyectos de Aprendizaje Global
-
-* **Proyecto Internacional COIL (Colombia — Chile) (2023)** Co-diseño y dirección estratégica del primer programa de colaboración internacional bajo metodología COIL entre la cátedra de Pavimentos de la Facultad de Ingeniería Civil en Colombia y las asignaturas de Obras Civiles y Edificación en Chile (Pontificia Universidad Católica / Duoc UC). Fomento de entornos multiculturales de aprendizaje para la resolución de problemáticas técnico-viales de infraestructura regional.  
-  🔗 [Ver Video Informativo](https://www.youtube.com/watch?v=eBvSbDMdA1Y)
-
-#### 📢 Divulgación Técnica & Comunidad Educativa
-
-* **Canal @ProfeVictorProject** Plataforma digital dedicada a la transferencia de conocimiento aplicado, ingeniería, automatización de flujos de presupuestos con R/Shiny, uso de herramientas BIM y metodologías instruccionales para la Educación Superior.  
-  🔗 [Visitar Canal de YouTube](https://youtube.com/@ProfeVictorProject)
+* **🎥 Canal @ProfeVictorProject:** Plataforma en YouTube de transferencia tecnológica masiva centrada en la automatización presupuestaria mediante R/Shiny, análisis de estructuras, metodologías instruccionales y herramientas BIM. [🔗 Visitar Canal Académico](https://youtube.com/@ProfeVictorProject)
 
 ---
 
-#### 📄 Publicaciones Académicas & Working Papers
+### 📄 Publicaciones Académicas & Working Papers
 
 * **Uso sustentable de aguas grises en edificio sede Alameda DUOC UC** (2024)  
-  ✍️ *Víctor Muñoz-Flores, Elizabeth Natividad Saenz Chavez.* 📋 **Resumen:** Diseño e implementación de un modelo de captación, tratamiento y reutilización óptima de aguas grises orientado a mitigar el estrés hídrico extremo en la infraestructura edilicia institucional.
-
+  ✍️ *Víctor Muñoz-Flores, Elizabeth Natividad Saenz Chavez.* 📋 **Proyecto de Innovación:** Diseño de un modelo hidráulico e instruccional de captación y tratamiento de aguas grises para mitigar la escasez hídrica urbana en infraestructuras educacionales.
 * **Lessons Learned from Chile’s Wood-Burning Heaters Replacement Program** (2023)  
-  ✍️ *V. Muñoz-Flores, F. Olivares, et al.* | Working Paper  
-  🔗 [Descargar Documento en PDF](https://fco-olivares.github.io/wp/cs_heaters.pdf)
-
-* **Diseño Estructural de Pavimentos** (2021)  
-  ✍️ *V. Muñoz-Flores.* | 🔗 [Ver en ResearchGate](https://www.researchgate.net/)
-
-* **Diseño de Pilares Estructurales según Código ACI318-14: Propuesta Metodológica Para Alumnos de Educación Técnico Profesional** (2020)  
-  ✍️ *V. Muñoz-Flores.* | 🔗 [Ver en ResearchGate](https://www.researchgate.net/)
-
-* **Rol Docente en la Retención de los Alumnos a Través del Uso de Estrategias de Enseñanza Aprendizaje en el Área Construcción de la Sede Los Ángeles** (2019)  
-  ✍️ *V. Muñoz-Flores.* | *Universidad del Desarrollo.*
-
-* **Mayores Mitos Frente a la Educación Online 2019** (2019)  
-  ✍️ *V. Muñoz-Flores.* | *Instituto Profesional AIEP.*
-
-* **Vinculación con el medio e interculturalidad: un estudio comparativo de las competencias del siglo XXI en estudiantes de Educación Superior** (2019)  
-  ✍️ *V. Farías, V. Muñoz-Flores, F. Matamala.*
-
-* **Fortalecimiento del Rol del Estado en la Educación Superior Chilena** (2018)  
-  ✍️ *V. Muñoz-Flores.* | *Universidad del Desarrollo.*
-
-* **Diseño de un Modelo de Control y Gestión para el Plan de Reconstrucción MINVU** (2014)  
-  ✍️ *V. Muñoz-Flores, E. Jaque, A. López, J. Rosales.* | *Universidad Central de Chile.*
+  ✍️ *V. Muñoz-Flores, F. Olivares, et al.* | Working Paper | [🔗 Descargar Documento Técnico](https://fco-olivares.github.io/wp/cs_heaters.pdf)
+* **Diseño Estructural de Pavimentos** (2021) — *V. Muñoz-Flores.* | [🔗 Ver en ResearchGate](https://www.researchgate.net/)
+* **Diseño de Pilares Estructurales según Código ACI318-14 en entornos Técnico Profesionales** (2020) — *V. Muñoz-Flores.* | [🔗 Ver en ResearchGate](https://www.researchgate.net/)
+* **Rol Docente en la Retención de Alumnos mediante Estrategias de Aprendizaje Activo** (2019) — *Universidad del Desarrollo.*
+* **Diseño de un Modelo de Control y Gestión para el Plan de Reconstrucción del MINVU** (2014) — *Universidad Central de Chile.*
 
 ---
 
 <div align="center">
-  <p><i>"Optimizando la gestión de proyectos de construcción a través de la ciencia de datos y la excelencia académica."</i></p>
+  <p><i>"Transformando la gestión e infraestructura de la construcción mediante la ciencia de datos, el aseguramiento de la calidad y la excelencia académica universitaria."</i></p>
 </div>
