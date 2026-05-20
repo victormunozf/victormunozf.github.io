@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./48975946-3a48-4c1f-a5eb-507537f83ab8.png" width="150" height="150" style="border-radius: 50%; border: 3px solid #002F6C;" alt="Víctor Muñoz Flores">
+  <img src="./Sin título.png" width="150" height="150" style="border-radius: 50%; border: 3px solid #002F6C;" alt="Víctor Muñoz Flores">
 
   # Víctor Muñoz Flores
   ### **Civil Industrial Engineer & Constructor Civil**
