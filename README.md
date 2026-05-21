@@ -192,10 +192,10 @@
 #### 📺 Reportajes Audiovisuales & Paneles Técnicos (Televisión Abierta)
 
 * **📺 TVN — Buenos Días a Todos (2025):** Panelista técnico en vivo sobre estrategias avanzadas de ventilación residencial cruzada, mitigación de radiación mediante barreras exteriores y dinámicas físicas de renovación del aire en olas de calor. [🔗 Ver Clip en YouTube](https://www.youtube.com/watch?v=bnEzd8a5mc4)
-* **📺 Reportaje Central (2024):** Modelamiento matemático en terreno evaluando la eficiencia y costos mensuales de sistemas de calefacción (Parafina, Gas, Inverter) para superficies estándar. [🔗 Ver Clip en YouTube](https://www.youtube.com/watch?v=Iu4cRuuGRis)
+* **📺 Chilevisión - Reportaje Central (2024):** Modelamiento matemático en terreno evaluando la eficiencia y costos mensuales de sistemas de calefacción (Parafina, Gas, Inverter) para superficies estándar. [🔗 Ver Clip en YouTube](https://www.youtube.com/watch?v=Iu4cRuuGRis)
 * **📺 TVN — Análisis Termográfico (2023):** Demostración práctica utilizando cámaras de termografía infrarroja para la detección *in situ* de puentes térmicos estructurales e infiltraciones de aire. [🔗 Ver Clip en YouTube](https://www.youtube.com/watch?v=MXVUztPWKu4)
 * **📺 TVN — Evolución Normativa O.G.U.C. (2023):** Análisis del impacto del quiebre normativo del año 2000 en Chile y las leyes físicas de traspaso térmico estacionario en mamposterías. [🔗 Ver Clip en YouTube](https://www.youtube.com/watch?v=yOcBC42jCj8)
-* **📺 Megavisión / Chilevisión (2022):** Proyecciones macroeconómicas de tarifas eléctricas residenciales y optimización de mantenimiento mecánico en sistemas calóricos residenciales. [🔗 Ver Clip en YouTube](https://www.youtube.com/watch?v=foFLUfMg-G4)
+* **📺 Chilevisión - Reportaje Central (2022):** Proyecciones macroeconómicas de tarifas eléctricas residenciales y optimización de mantenimiento mecánico en sistemas calóricos residenciales. [🔗 Ver Clip en YouTube](https://www.youtube.com/watch?v=foFLUfMg-G4)
 
 #### 🏫 Cooperación Internacional & Proyectos COIL Global
 
