@@ -165,7 +165,7 @@
       <strong>💻 PORTAFOLIO DE REPOSITORIOS</strong><br>
       <p style="font-size: 11pt; color: #495057;">Códigos fuente orientados a analítica, modelos predictivos de ingeniería y flujos automatizados.</p>
       <br>
-      <a href="https://victormunoz.github.io" target="_blank"><b>[ 🌐 Explorar victormunoz.github.io ]</b></a>
+      <a href="https://github.com/victormunozf?tab=repositories" target="_blank"><b>[ 🌐 Explorar victormunoz.github.io ]</b></a>
     </td>
     <td width="50%" align="center" valign="top" style="background-color: #e9ecef; border-radius: 8px; padding: 15px;">
       <img src="https://img.shields.io/badge/Shiny_Apps-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="Shiny"><br>
