@@ -34,7 +34,6 @@
 
 * 🎓 **Magíster en Ingeniería Industrial** – *Universidad Central de Chile*
 * 🎓 **Magíster en Innovación Curricular y Evaluación** – *Universidad del Desarrollo*
-* 📜 **Postítulo en Ingeniería Industrial** – *Universidad Central de Chile*
 * 📊 **Ingeniero Civil Industrial** – *Universidad Central de Chile*
 * 🏗️ **Constructor Civil** – *Universidad Católica de la Santísima Concepción*
 
